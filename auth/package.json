@@ -1,0 +1,17 @@
+{
+  "name": "JWTtutorial",
+  "version": "1.0.0",
+  "main": "app.js",
+  "author": "Gonzalo Montaño Sanchez",
+  "license": "MIT",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
